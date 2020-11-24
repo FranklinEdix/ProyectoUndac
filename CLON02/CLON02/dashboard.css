@@ -1,0 +1,18 @@
+.titlesMain{
+	background: #f5f5f5;
+	border-left: 4px #015292 solid;
+	height: 50px;
+	padding: 5px;
+	position: relative;
+}
+
+.titlesMain .iconMain{
+	color: #015292;
+}
+
+.graphics{
+	border-left: 4px #015292 solid;
+	border-bottom: 4px #f5f5f5 solid;
+	border-right: 4px #f5f5f5 solid;
+	position: relative;
+}
